@@ -131,10 +131,10 @@
         "Grand Theft Auto 6",
         "Grand Theft Auto VI"
       ],
-      "version": 2,
-      "sha256": "2ba6cd507665155dd3e797705d720612bf70cb0fea95cca281249e2245c17d99",
+      "version": 3,
+      "sha256": "7d9047d52c19f0334763e8f2f9024a939d99ad21048d45cdee6e4d682f4d11e8",
       "url": "gta-6.json.gz",
-      "entries": 16876
+      "entries": 23027
     },
     {
       "id": "gta-iv",
