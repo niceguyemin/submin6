@@ -1,0 +1,251 @@
+{
+  "packs": [
+    {
+      "id": "gta-6",
+      "title": "Grand Theft Auto VI",
+      "titleIds": [
+        "PPSA99996",
+        "PPSA99999"
+      ],
+      "aliases": [
+        "GTA VI",
+        "GTA 6",
+        "Grand Theft Auto 6"
+      ],
+      "version": 1,
+      "sha256": "2ba6cd507665155dd3e797705d720612bf70cb0fea95cca281249e2245c17d99",
+      "url": "gta-6.json.gz",
+      "entries": 16876
+    }
+  ],
+  "icons": [
+    {
+      "name": "AMMO",
+      "file": "icon_ammo.png",
+      "sha256": "760507c13579bebb0cc97b679b801f5decfa862381526ddf4b090ebeafa21748",
+      "url": "../icons/gta6/icon_ammo.png"
+    },
+    {
+      "name": "APPEARANCE",
+      "file": "icon_appearance.png",
+      "sha256": "95b93a720a36f2fc395cff2dbb9b57d7741e990cb17e27aa01eb1d9327c959aa",
+      "url": "../icons/gta6/icon_appearance.png"
+    },
+    {
+      "name": "ARMOR",
+      "file": "icon_armor.png",
+      "sha256": "d3b265f1da4602dfa7348f9f0f56d01222b6da997b5eda229677688be4e20f06",
+      "url": "../icons/gta6/icon_armor.png"
+    },
+    {
+      "name": "BANK",
+      "file": "icon_bank.png",
+      "sha256": "cb0a85eb8426a6334078f2dc03d965bf5ee7cf4cdd7e48817699c5c573192e26",
+      "url": "../icons/gta6/icon_bank.png"
+    },
+    {
+      "name": "BARBER",
+      "file": "icon_barber.png",
+      "sha256": "95f3e5aa0a903d3906e3e5418bdf03bd69e8a952e3f87a4a5df3b68aeefc1b70",
+      "url": "../icons/gta6/icon_barber.png"
+    },
+    {
+      "name": "BED",
+      "file": "icon_bed.png",
+      "sha256": "656f6ee81758f2ae7da8617e88112bbb54bb0d7e5103b805a298c8ba99d82c18",
+      "url": "../icons/gta6/icon_bed.png"
+    },
+    {
+      "name": "BOAT",
+      "file": "icon_boat.png",
+      "sha256": "8e921f19327292974bd6ebf361b0c6c5e84bdfa3ac05d0897065ba8c55eb86a5",
+      "url": "../icons/gta6/icon_boat.png"
+    },
+    {
+      "name": "CAMERA",
+      "file": "icon_camera.png",
+      "sha256": "78757e66ac8150ef2acb0a181c74a5ddc4555074ca3b6f6f06ad242a23e16b93",
+      "url": "../icons/gta6/icon_camera.png"
+    },
+    {
+      "name": "CAR",
+      "file": "icon_car.png",
+      "sha256": "f82f3a1f370e46b14a9c8d862ee4287f0409a520c6e0dc3013601b0a5d259c5c",
+      "url": "../icons/gta6/icon_car.png"
+    },
+    {
+      "name": "CRIMINAL_PROFILE",
+      "file": "icon_criminal_profile.png",
+      "sha256": "339a70a828f720e2fcf5300db967bbb0a738d87c899351f555d927af4307ed71",
+      "url": "../icons/gta6/icon_criminal_profile.png"
+    },
+    {
+      "name": "DRINK",
+      "file": "icon_drink.png",
+      "sha256": "0e3aab23b240d0c79f7ee597a74a155fc592eaab8f0800ee3c0b7e9fbda3583a",
+      "url": "../icons/gta6/icon_drink.png"
+    },
+    {
+      "name": "EXPLOSIVE",
+      "file": "icon_explosive.png",
+      "sha256": "a43457c2b2a02ba9c7a80e1ae760d164fb9c2e67723b841439c10455d071b5c8",
+      "url": "../icons/gta6/icon_explosive.png"
+    },
+    {
+      "name": "FOCUS",
+      "file": "icon_focus.png",
+      "sha256": "82e94d549ecf158a093e11a8bbb3a1d60bc6ca88f090e9ff3e438a658d76fb77",
+      "url": "../icons/gta6/icon_focus.png"
+    },
+    {
+      "name": "FOOD",
+      "file": "icon_food.png",
+      "sha256": "4c0fe52b53abb7bd644c45f08dd921cc410c673610566a8a2f905e5b0332e565",
+      "url": "../icons/gta6/icon_food.png"
+    },
+    {
+      "name": "GARAGE",
+      "file": "icon_garage.png",
+      "sha256": "8a85957c85811fcf1e2d5f81ccfae8d6fbf245493117ffaddeeb61518db7b6dd",
+      "url": "../icons/gta6/icon_garage.png"
+    },
+    {
+      "name": "GAS",
+      "file": "icon_gas.png",
+      "sha256": "cdd7bc54d1c49d5fe349fcdf9b76a773596137646155eac0833be1170b72a34e",
+      "url": "../icons/gta6/icon_gas.png"
+    },
+    {
+      "name": "GYM",
+      "file": "icon_gym.png",
+      "sha256": "f6e644890e71b22c2b2eec319981fafc340ba4e8fef364f890c180d528d4298a",
+      "url": "../icons/gta6/icon_gym.png"
+    },
+    {
+      "name": "HEALTH",
+      "file": "icon_health.png",
+      "sha256": "5278848f2b2a17d6e1a3077b315622e8c11bc4e37120aa92ace84b88c2ea479d",
+      "url": "../icons/gta6/icon_health.png"
+    },
+    {
+      "name": "HOUSE",
+      "file": "icon_house.png",
+      "sha256": "7a5481710ef9224f474f851a3a058aeacb47e23a954db5542abc20af835a0046",
+      "url": "../icons/gta6/icon_house.png"
+    },
+    {
+      "name": "LOCK",
+      "file": "icon_lock.png",
+      "sha256": "c9cae2b4fa3829fda6ab2a6f46e49f3949e516fea3575b61fe5bcea92d1354e3",
+      "url": "../icons/gta6/icon_lock.png"
+    },
+    {
+      "name": "MAIL",
+      "file": "icon_mail.png",
+      "sha256": "bb31a39dac26c85dd2ba6a2a9aab5b99d531fd17e34382ce54918e6b3ecb7329",
+      "url": "../icons/gta6/icon_mail.png"
+    },
+    {
+      "name": "MAILBOX",
+      "file": "icon_mailbox.png",
+      "sha256": "43d1b7115e8fd8cf1e237fef23f6b8c7cb35c0d016e7f02321ad8b0503ff1ca5",
+      "url": "../icons/gta6/icon_mailbox.png"
+    },
+    {
+      "name": "MAP",
+      "file": "icon_map.png",
+      "sha256": "5dedfcdee00b4d1b3a6917195c523b35635bb50903a308284330646d53d97cd6",
+      "url": "../icons/gta6/icon_map.png"
+    },
+    {
+      "name": "MONEY",
+      "file": "icon_money.png",
+      "sha256": "9943c3bac75f2f294c8810bdb4488c4fbf4234b78f45741a3ccb917aeec1d31b",
+      "url": "../icons/gta6/icon_money.png"
+    },
+    {
+      "name": "PAYNSPRAY",
+      "file": "icon_paynspray.png",
+      "sha256": "32f3bc961510b546ddc8f2ffb4c429a6b56079d8264cff5602688aca7e886d49",
+      "url": "../icons/gta6/icon_paynspray.png"
+    },
+    {
+      "name": "PHONE",
+      "file": "icon_phone.png",
+      "sha256": "ee5b6c1283420a590637fd6fcfc08293e2de9840b015a96eed262b0b7000dc36",
+      "url": "../icons/gta6/icon_phone.png"
+    },
+    {
+      "name": "PLANE",
+      "file": "icon_plane.png",
+      "sha256": "97817fdcfcc50f752bb3053475ac678aa5f45ceffe0c27f5fa93662b71a88b9f",
+      "url": "../icons/gta6/icon_plane.png"
+    },
+    {
+      "name": "RELATIONSHIP",
+      "file": "icon_relationship.png",
+      "sha256": "8f4c6272bd13a6d3de3274e82b2465ab6004c39b902139b3c64d3d9693ecc3a2",
+      "url": "../icons/gta6/icon_relationship.png"
+    },
+    {
+      "name": "SHOP",
+      "file": "icon_shop.png",
+      "sha256": "db59fc32e2972ebfd5baf859dd580ceb1cc95660b79d0bf5de48d1d73175766a",
+      "url": "../icons/gta6/icon_shop.png"
+    },
+    {
+      "name": "STAMINA",
+      "file": "icon_stamina.png",
+      "sha256": "161bcfe8a5d149677992cb4590de345c0dbd5d90aa15aed789dc331e1a0459ed",
+      "url": "../icons/gta6/icon_stamina.png"
+    },
+    {
+      "name": "STAR",
+      "file": "icon_star.png",
+      "sha256": "b8d09840453d15123b1fa93c4bea3eef80676f7ed6e55a3850b1c334c141d56e",
+      "url": "../icons/gta6/icon_star.png"
+    },
+    {
+      "name": "STASH",
+      "file": "icon_stash.png",
+      "sha256": "c3bdfe4976cf6e483e9f75e2dd5c5e79c0cd32519907fc233828b06102f14cff",
+      "url": "../icons/gta6/icon_stash.png"
+    },
+    {
+      "name": "STICKUP",
+      "file": "icon_stickup.png",
+      "sha256": "7dd818e72dbcc45d3b105eaa36540607f22dc61ffa7ca458ab9fb436f6f1ecdd",
+      "url": "../icons/gta6/icon_stickup.png"
+    },
+    {
+      "name": "TRACKER",
+      "file": "icon_tracker.png",
+      "sha256": "8d21a3308caf1b8410e4733177498765239860234cd8150965fb10094540decc",
+      "url": "../icons/gta6/icon_tracker.png"
+    },
+    {
+      "name": "TRUNK",
+      "file": "icon_trunk.png",
+      "sha256": "10b6606a217afbdb3a5a33b8294ecc193e77ece32f634785627abaafd329ec31",
+      "url": "../icons/gta6/icon_trunk.png"
+    },
+    {
+      "name": "WAINK",
+      "file": "icon_waink.png",
+      "sha256": "b1c04aaa37cf26a269816eda2cbc06681f811445f141117a46c397e5f95a34fb",
+      "url": "../icons/gta6/icon_waink.png"
+    },
+    {
+      "name": "WARDROBE",
+      "file": "icon_wardrobe.png",
+      "sha256": "5ebbe9fa8c6d9d9734c115d76e0165562fa069e258c8dab3a78dad41792e41e3",
+      "url": "../icons/gta6/icon_wardrobe.png"
+    },
+    {
+      "name": "WEAPON",
+      "file": "icon_weapon.png",
+      "sha256": "562057defb789a9c6054884f619d842ad89f7eba054dc8481de26ffc573a665e",
+      "url": "../icons/gta6/icon_weapon.png"
+    }
+  ]
+}
